@@ -5,7 +5,7 @@
 
 ># 📚 Used stack
 >
->🌐 HTML, CSS, JS
+>🌐 HTML, CSS, JS <br>
 >🧩 Vue.js
 >
 
